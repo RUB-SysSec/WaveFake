@@ -1,10 +1,12 @@
 # WaveFake: A Data Set to Facilitate Audio DeepFake Detection
 
+![logo](media/header.png)
+
+This is the code repository for our NeurIPS 2021 (Track on Datasets and Benchmarks) paper WaveFake.
+
 <p>
 <img align="right" width="350"  src="media/audiofant.png"> 
 </p>
-
-This is the code repository for our NeurIPS 2021 (Track on Datasets and Benchmarks) paper WaveFake.
 
 >Deep generative modeling has the potential to cause significant harm to society.
 >Recognizing this threat, a magnitude of research into detecting so-called "Deepfakes" has emerged.
