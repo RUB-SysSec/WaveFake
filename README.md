@@ -2,7 +2,7 @@
 
 ![logo](media/header.png)
 
-This is the code repository for our NeurIPS 2021 (Track on Datasets and Benchmarks) paper WaveFake.
+This is the code repository for our NeurIPS 2021 (Track on Datasets and Benchmarks) [paper](https://arxiv.org/abs/2111.02813) WaveFake.
 
 <p>
 <img align="right" width="350"  src="media/audiofant.png"> 
